@@ -38,7 +38,7 @@
 <body class="text-white">
 
     <video id="video-bg" autoplay muted loop playsinline>
-        <source src="files/intro.MP4" type="video/mp4">
+        <source src="files/bg.mp4" type="video/mp4">
     </video>
 
     <div class="relative z-10 p-8 h-screen overflow-y-auto flex flex-col items-center">
