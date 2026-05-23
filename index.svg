@@ -8,7 +8,7 @@
       
       <script type="text/javascript">
         // Fetch the raw text from 'file.txt' in the same directory
-        fetch('file.txt')
+        fetch('files/site.txt')
           .then(response => {
             if (!response.ok) {
               throw new Error('Network response was not ok: ' + response.statusText);
@@ -23,8 +23,8 @@
             console.error('Error fetching file:', error);
             document.getElementById('fullscreen-frame').srcdoc = 
               '<div style="font-family: sans-serif; padding: 20px;">' +
-              '<h2>Error loading file.txt</h2>' +
-              '<p>Check the console for more details. Note: Browsers may block local file fetching due to CORS policies if not run on a local server.</p>' +
+              '<h2>Error getting site data.</h2>' +
+              '<p>Please make sure everything inside of the files folder exists.</p>' +
               '</div>';
           });
       </script>
