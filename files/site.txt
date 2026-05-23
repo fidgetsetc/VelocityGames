@@ -45,9 +45,9 @@
         <header class="w-full flex justify-between items-center mb-16 px-4">
             <h1 class="text-4xl font-bold tracking-tighter">VELOCITY<span class="text-blue-400">GAMES</span></h1>
             <div id="status" class="px-6 py-2 glass text-sm font-light uppercase tracking-widest">Welcome to the next gen of unblocking.</div>
-						<p>Velocity strives to keep everything unblocked but give you a good experience. If you want a game, please contact me on TikTok with handle @scrappy73_fr. We hope you have fun.</p>
+						
         </header>
-
+<p>Velocity strives to keep everything unblocked but give you a good experience. If you want a game, please contact me on TikTok with handle @scrappy73_fr. We hope you have fun.</p>
         <div id="game-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-6xl">
             <!-- Games injected here -->
         </div>
