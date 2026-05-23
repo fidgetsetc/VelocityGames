@@ -48,7 +48,8 @@
 						
         </header>
 <p>Velocity strives to keep everything unblocked but give you a good experience. If you want a game, please contact me on TikTok with handle @scrappy73_fr. We hope you have fun.</p>
-        <div id="game-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-6xl">
+       <br>
+ <div id="game-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-6xl">
             <!-- Games injected here -->
         </div>
     </div>
