@@ -38,7 +38,7 @@
 <body class="text-white">
 
     <video id="video-bg" autoplay muted loop playsinline>
-        <source src="files/bg.mp4" type="video/mp4">
+        <source src="https://cdn.jsdelivr.net/gh/fidgetsetc/VelocityGames/files/bg.mp4" type="video/mp4">
     </video>
 
     <div class="relative z-10 p-8 h-screen overflow-y-auto flex flex-col items-center">
@@ -66,8 +66,8 @@
     <script>
         // Just drop your file paths here, fam!
         const games = [
-            { name: "Minecraft v1.8", path: "files/minecraft.txt", thumb: "https://cdn2.steamgriddb.com/thumb/45ec4f558dca1921c3f77b0a787b204f.jpg" },
-            { name: "Bad Piggies", path: "files/bp.txt", thumb: "https://static.wikia.nocookie.net/angrybirds/images/b/ba/Bad_Piggies_Cartoon.PNG" }
+            { name: "Minecraft v1.8", path: "https://cdn.jsdelivr.net/gh/fidgetsetc/VelocityGames/files/minecraft.txt", thumb: "https://cdn2.steamgriddb.com/thumb/45ec4f558dca1921c3f77b0a787b204f.jpg" },
+            { name: "Bad Piggies", path: "https://cdn.jsdelivr.net/gh/fidgetsetc/VelocityGames/files/bp.txt", thumb: "https://static.wikia.nocookie.net/angrybirds/images/b/ba/Bad_Piggies_Cartoon.PNG" }
         ];
 
         const grid = document.getElementById('game-grid');
