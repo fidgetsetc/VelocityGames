@@ -48,7 +48,7 @@
 						
         </header>
 <header class="w-full flex justify-between items-center mb-16 px-4">
-<p>Velocity strives to keep everything unblocked but give you a good experience. If you want a game, please contact me on TikTok with handle @scrappy73_fr. We hope you have fun.</p>
+<p>Velocity strives to keep everything unblocked but give you a good experience. If you want a game, please contact me on TikTok with handle @scrappy73_fr, or suggest in the BlockIn server. We hope you have fun.</p>
        </header>
  <div id="game-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-6xl">
             <!-- Games injected here -->
